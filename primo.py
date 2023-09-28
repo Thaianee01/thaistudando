@@ -4,9 +4,9 @@ limite = int(input("Digite o numero limite que gostaria de saber se é primo:"))
  
 lista = []
 
-for numero in range(1, limite+1):
+for numero in range (1, limite+1):
     r = 0
-    for i in range(1, numero+1):
+    for i in range (1, numero+1):
         if numero % i == 0:
             r = r + 1
     if r == 2:

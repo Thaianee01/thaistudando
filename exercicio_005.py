@@ -1,11 +1,10 @@
 #Faça um programa em Python para calcular e imprimir o dígito verificador de uma conta bancária. O usuário deve informar o número da conta que deve ser um número inteiro com 4 dígitos. O dígito verificador será calculado como segue:
 
-comentario = [ 
-    "Somar todos os quatro dígitos."
-    "Multiplicar todos os quatro dígitos."
-    "Subtrair o resultado da soma (passo 1) do resultado da multiplicação (passo 2)."
-    "O dígito verificador será o resto da divisão do resultado da subtração (passo 3) por 9. "
-]
+#comentario:
+    #"Somar todos os quatro dígitos."
+    #"Multiplicar todos os quatro dígitos."
+    #"Subtrair o resultado da soma (passo 1) do resultado da multiplicação (passo 2)."
+    #"O dígito verificador será o resto da divisão do resultado da subtração (passo 3) por 9.
 
 import math
 
