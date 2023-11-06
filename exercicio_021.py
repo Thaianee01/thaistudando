@@ -1,3 +1,5 @@
+#EXERCICIO 4: Faça um programa em Python que leia diversos números inteiros e informe a média de números pares e ímpares lidos. Para terminar, entre com o número zero, que não deverá ser considerado no cálculo das médias.
+
 par = 0
 impar = 0
 soma_par = 0

@@ -2,9 +2,9 @@
 
 import math
 total_dias = (int(input("total de dias vividos = ")))
-anos = (total_dias// 365)
-meses = (total_dias % 365) // 30
-dias = (total_dias % 365) % 30
+anos = (total_dias// 365)                # // divisão inteira
+meses = (total_dias % 365) // 30         # % resto da divisão
+dias = (total_dias % 365) % 30          
 
 print(f'anos = {anos}')
 print (f"meses = {meses}")
