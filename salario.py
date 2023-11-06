@@ -12,7 +12,7 @@ salario = valor * tempo
 imposto = salario * 0.11
 inss = (salario - imposto) * 0.08
 sindicato = (salario - imposto - inss) * 0.05
-liquido = (salario- imposto - inss - sindicato)
+liquido = (salario - imposto - inss - sindicato)
 
 print ('O seu salario bruto é de R$ {:.2f}'.format(salario))
 print ('Valor pago de INSS: R$ {}'.format(inss))

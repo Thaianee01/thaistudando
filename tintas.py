@@ -11,4 +11,3 @@ preço = latas * 80
 
 
 print ('você precisará de {}, isso custará {} reais'.format(latas,preço))
-

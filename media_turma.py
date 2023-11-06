@@ -1,4 +1,4 @@
-#Exercício 6: Faça um programa em Python que leia, para cada aluno de uma turma, o seu nome e as notas das suas 3 provas, até que seja digitado o nome 'FIM'. O programa deve mostrar, para cada aluno, a sua média ponderada e uma mensagem "Aprovado", caso MP > = 5.75, e uma mensagem "Reprovado", caso contrário. A sua média ponderada é calculada como segue: MP = ( P1*1 + P2*2 + P3*3 ) / 6 . Ao final, mostre a média geral da turma.
+#Faça um programa em Python que leia, para cada aluno de uma turma, o seu nome e as notas das suas 3 provas, até que seja digitado o nome 'FIM'. O programa deve mostrar, para cada aluno, a sua média ponderada e uma mensagem "Aprovado", caso MP > = 5.75, e uma mensagem "Reprovado", caso contrário. A sua média ponderada é calculada como segue: MP = ( P1*1 + P2*2 + P3*3 ) / 6 . Ao final, mostre a média geral da turma.
 
 somatorio = 0
 quantidade = 0

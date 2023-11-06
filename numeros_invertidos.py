@@ -6,6 +6,7 @@ numero = int(input("digite um numero de 000 999 = "))
 digito = numero//100
 digito_02 = (numero % 100) // 10
 digito_03 = (numero % 100) % 10
+
 print (digito)
 print (digito_02)
 print (digito_03)

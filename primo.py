@@ -11,4 +11,5 @@ for numero in range (1, limite+1):
             r = r + 1
     if r == 2:
         lista.append(i)
+        
 print(lista)

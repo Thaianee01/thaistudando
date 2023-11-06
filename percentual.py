@@ -1,4 +1,4 @@
-#Faça um programa em Python que leia 10 números reais (do tipo float) e informe o percentual de números positivos e o percentual de números negativos lidos.#
+#Faça um programa em Python que leia 10 números reais (do tipo float) e informe o percentual de números positivos e o percentual de números negativos lidos.
 
 import math
 

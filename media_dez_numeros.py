@@ -1,4 +1,4 @@
-#Faça um programa em Python que leia, no máximo, 10 números inteiros positivos quaisquer e ao final apresente o somatório e a média aritmética destes números. Se desejar terminar antes da leitura dos 10 números, entre com o número zero. Caso nenhum número seja somado, não apresente a soma e a média.#
+#Faça um programa em Python que leia, no máximo, 10 números inteiros positivos quaisquer e ao final apresente o somatório e a média aritmética destes números. Se desejar terminar antes da leitura dos 10 números, entre com o número zero. Caso nenhum número seja somado, não apresente a soma e a média.
 
 numero = 0
 soma = 0

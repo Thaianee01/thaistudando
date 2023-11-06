@@ -1,4 +1,4 @@
-#EXERCICIO 1: Faça um programa em Python que leia diversos números inteiros positivos quaisquer e ao final informe qual o maior número lido. Quando terminar de entrar com todos os números, entre com o número zero.#
+# Faça um programa em Python que leia diversos números inteiros positivos quaisquer e ao final informe qual o maior número lido. Quando terminar de entrar com todos os números, entre com o número zero.
 
 anterior = 0
 maior_numero = 0
